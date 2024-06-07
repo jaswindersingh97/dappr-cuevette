@@ -29,7 +29,6 @@ body{margin: 0px;
 }
 
 .search-container {
-    width:260px;
     height:30px;
     display: flex;
     align-items: center;
